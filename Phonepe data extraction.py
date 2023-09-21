@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[1]:
-
 
 get_ipython().system('pip install GitPython')
 
@@ -393,26 +389,6 @@ map_user = pd.read_csv('map_user.csv')
 top_tran = pd.read_csv('top_tran.csv')
 top_user = pd.read_csv('top_user.csv')
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
